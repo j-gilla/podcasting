@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/studiogibbles/podcasting#readme",
   "dependencies": {
-    "electron": "^1.4.12"
-  }
+    "electron": "^1.4.12",
+    "itunes-search": "^1.0.1"
+  },
+  "devDependencies": {}
 }
